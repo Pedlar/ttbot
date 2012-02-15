@@ -1,0 +1,6 @@
+Logging into Pedlar
+Bots logged in
+Vote Count: 2
+Round Count: 2
+Vote Count: 5
+Round Count: 3

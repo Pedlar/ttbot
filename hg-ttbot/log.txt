@@ -1,0 +1,6 @@
+Setting Json Bots
+Setting up DJ: Pedlar
+Setting up DJ: Thoth
+Bots logged in
+Heartbeat set
+Thoth skipped at 6. Total: 6

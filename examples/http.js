@@ -1,7 +1,7 @@
 var Bot    = require('../index');
-var AUTH   = 'auth+live+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';
-var USERID = 'xxxxxxxxxxxxxxxxxxxxxxxx';
-var ROOMID = 'xxxxxxxxxxxxxxxxxxxxxxxx';
+var AUTH   = 'auth+live+97a2ed22601f694539fb1a7581ec149ffaa51f47';
+var USERID = '4e189e45a3f75133b404db5c';
+var ROOMID = '4e83ddd667db4679770afcfb';
 
 var bot = new Bot(AUTH, USERID, ROOMID);
 bot.listen(8080, '127.0.0.1');
